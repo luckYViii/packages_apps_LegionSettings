@@ -43,4 +43,12 @@
    <!-- Motorola Device maintainers -->
    <string name="device_sanders">Moto G5 (S) Plus (sanders)</string>
    <string name="sanders_maintainer">Lucas Ponez</string>
+
+   <!-- Device Categories -->
+   <string name="realme_devices">realme</string>
+
+   <!-- Realme Device maintainers -->
+   <string name="device_RMX1971">Realme 5 Pro (RMX1971)</string>
+   <string name="RMX1971_maintainer">LuckYVii</string>
+
 </resources>
